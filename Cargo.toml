@@ -1,0 +1,6 @@
+[package]
+name = "ternary-rl"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Reinforcement learning with ternary actions"
