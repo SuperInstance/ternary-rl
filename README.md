@@ -118,3 +118,11 @@ Part of the **SuperInstance** ternary computing suite:
 ## License
 
 MIT
+
+## See Also
+- **ternary-predict** — related
+- **ternary-oracle** — related
+- **ternary-ga** — related
+- **ternary-fitness** — related
+- **ternary-attention** — related
+
